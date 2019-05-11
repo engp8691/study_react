@@ -1,0 +1,10 @@
+echo "# study_react" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/engp8691/study_react.git
+git push -u origin master
+
+
+git remote add origin https://github.com/engp8691/study_react.git
+git push -u origin master

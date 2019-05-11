@@ -1,0 +1,11 @@
+.normalLink{
+  background: #fff;
+  color: blue;
+}
+.activeLink {
+  background: #fff;
+  font-weight: 600;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: black;
+}

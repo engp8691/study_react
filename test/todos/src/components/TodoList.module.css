@@ -1,0 +1,17 @@
+.todoUL li{
+	margin: 5px;
+}
+
+.todoUL{
+	position: relative;
+	left: 10px;
+	top: 10px;
+	width: 95%;
+}
+
+.todoContainer{
+	position: relative;
+	width: 300px;
+	margin: auto;
+	border: 1px solid red;
+}
